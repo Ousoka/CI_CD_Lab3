@@ -1,2 +1,2 @@
-# CI_CD_Lab3
-This rec
+# Machine Learning - Apprentissage automatique
+SVM, KNN, Logistic Regression, Linear Regression applied on healthcare dataset to predict Heart Disease
